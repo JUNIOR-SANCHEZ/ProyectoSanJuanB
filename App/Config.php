@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://localhost/SanJuan/');
+define('BASE_URL', 'https://sanjuanbautista.herokuapp.com/');
 define('DEFAULT_CONTROLLER', 'index');
 define('DEFAULT_LAYOUT', 'default');
 define('SESSION_TIME', 0);
